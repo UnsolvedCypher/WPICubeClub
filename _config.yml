@@ -1,0 +1,40 @@
+# Site settings
+title: Cube Club
+subtitle: at WPI
+email:
+description: WPI's club for anyone interested in cubing
+baseurl: "/~mmcmillan" # the subpath of your site, e.g. /blog
+url: "http://users.wpi.edu/" # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
+
+meeting_info: For C Term of 2017, we will be meeting in Olin Hall 223 every Wednesday from 5pm-6pm.
+comp_date: Sunday, February 26th, 2017
+comp_url: http://worldcubeassociation.org/competitions/WPIWinterCubeDay2017
+
+# Homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/wpi-cubes
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
