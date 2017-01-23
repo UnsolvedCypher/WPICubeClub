@@ -3,7 +3,7 @@ title: Cube Club
 subtitle: at WPI
 email:
 description: WPI's club for anyone interested in cubing
-baseurl: "WPICubeClub/" # the subpath of your site, e.g. /blog
+baseurl: "/WPICubeClub" # the subpath of your site, e.g. /blog
 url: "http://www.matthewmcmillan.me" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
