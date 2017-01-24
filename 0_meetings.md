@@ -6,8 +6,6 @@ permalink: /meetings/
 nav-menu: true
 ---
 
-<!-- abstract the meeting times to sitewide variables -->
-
 {{ site.meeting_info }}
 
 This page contains an archive of topics that meetings focused on in the past, and possible plans for future meetings. Please keep in mind that while we do discuss advanced topics, we don't have a rigid structure and we're happy to teach new members solve or give tips at any meeting.
