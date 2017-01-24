@@ -11,3 +11,7 @@ Whether you're an experienced cuber or don't yet know how to solve a Rubik's Cub
 
 
 The rest of this website contains an abundance of resources with information about various aspects of cubing and about this club.
+
+lalalalala
+
+# Sam is gr8
